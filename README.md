@@ -4,5 +4,9 @@ This repository includes codes used in "Deep Coverage of Global Protein Expressi
 This readme.md explains how all of the scripts work and how they are connected.
 
 The dataset includes the following folder and files:
-- InputFiles folder
-- run_analysis.R
+- Phospho (STY)Sites.txt
+- README.md 
+- SILAC_Analysis_Functions.R
+- ms2ProteinGroup.R
+- phenotypicinfo.csv 
+- proteinGroups.txt 
