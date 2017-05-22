@@ -15,6 +15,6 @@ SILAC_Analysis_Functions.R includes customrized functions
 
 ms2ProteinGroup includes input files and R codes to analyze proteinGroup data acquired using QE-HF
 
-ms2pSTY includes input files and R codes to analyze TiO2-enriched phosphopeptide data using QE-HF
+ms2pSTY includes input files and R codes to analyze TiO2-enriched phosphopeptide data using QE-HF (unable to upload pSTY phosphopeptide MaxQuant output file because the file exceeded 25 Mb)
 
 ms2pYIP includes input files and R codes to analyze pY-IP-enriched phosphopeptide data using QE-HF
