@@ -3,10 +3,15 @@ This repository includes codes used in "Deep Coverage of Global Protein Expressi
 
 This readme.md explains how all of the scripts work and how they are connected.
 
-The dataset includes the following folder and files:
-- Phospho (STY)Sites.txt
+The dataset includes the following folders and files:
 - README.md 
 - SILAC_Analysis_Functions.R
-- ms2ProteinGroup.R
 - phenotypicinfo.csv 
-- proteinGroups.txt 
+- ms2ProteinGroup
+- ms2pSTY
+- ms2pIP
+
+SILAC_Analysis_Functions.R includes customrized functions
+ms2ProteinGroup includes input files and R codes to analyze proteinGroup data acquired using QE-HF
+ms2pSTY includes input files and R codes to analyze TiO2-enriched phosphopeptide data using QE-HF
+ms2pYIP includes input files and R codes to analyze pY-IP-enriched phosphopeptide data using QE-HF
