@@ -1,0 +1,11 @@
+Cell.line,Gene.Cluster,ER,PR,HER2,Source,Tumor.type,Age,Ethnicity
+AU565.1,Lu,-,-,HER2,PE,AC,43,W
+MDA-MB-231,BaB,-,-,NEG,PE,AC,51,W
+SKBR3/CAMA1,Lu,+,-,HER2,PE,AC,51,W
+T47D.1,Lu,+,+,NEG,PE,IDC,54,
+HCC1954.1,BaA,-,-,HER2,P.Br,Duc.Ca,61,EI
+HCC1500.1,BaB,-,-,NEG,P.Br,Duc.Ca,32,B
+AU565.2,Lu,-,-,HER2,PE,AC,43,W
+T47D.2,Lu,+,+,NEG,PE,IDC,54,
+HCC1954.2,BaA,-,-,HER2,P.Br,Duc.Ca,61,EI
+HCC1500.2,BaB,-,-,NEG,P.Br,Duc.Ca,32,B
